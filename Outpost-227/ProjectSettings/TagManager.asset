@@ -9,6 +9,7 @@ TagManager:
   - RightStop
   - ShipDoorLimit
   - ShipDoor
+  - Roach
   layers:
   - Default
   - TransparentFX
